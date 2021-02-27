@@ -18,8 +18,11 @@
 python3 main.py -i input.png -o output.png -t ./tiles/
 ```
 > -i for input image
+
 > -o to specify output image name
+
 > -t to specify the images directory from which tiles would be created
+
 > more the number of tiles the better the image will be 
 
 ```shell
