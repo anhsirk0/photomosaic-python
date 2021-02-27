@@ -4,8 +4,14 @@
 ### Input image
 ![fry.jpg](https://github.com/anhsirk0/photomosaic-python/blob/master/images/fry.jpg)
 
-## Output image
+### Output image
 ![output.png](https://github.com/anhsirk0/photomosaic-python/blob/master/images/output.png)
+
+### Part of input image
+![fry_part.jpg](https://github.com/anhsirk0/photomosaic-python/blob/master/images/fry_part.jpg)
+
+### Part of output image
+![output_part.png](https://github.com/anhsirk0/photomosaic-python/blob/master/images/output_part.png)
 
 ## Usage
 ```shell
