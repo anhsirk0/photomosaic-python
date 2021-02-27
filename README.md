@@ -5,7 +5,7 @@
 ![fry.jpg](https://github.com/anhsirk0/photomosaic-python/blob/master/images/fry.jpg)
 
 ## Output image
-!output.png](https://github.com/anhsirk0/photomosaic-python/blob/master/images/output.png)
+![output.png](https://github.com/anhsirk0/photomosaic-python/blob/master/images/output.png)
 
 ## Usage
 ```shell
